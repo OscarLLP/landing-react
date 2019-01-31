@@ -5,7 +5,7 @@ export const Container = styled.div`
       line-height: 52 px;
       color: #2f4b6e;
       display: flex;
-      background-color: #f4fcff;
+      background-color: #e8f5fa;
 
    .h3 {
       width: 432px;
@@ -40,7 +40,7 @@ export const Container = styled.div`
    .img2 {
       width: 350p;
       height: 300px;
-      background-color: #f4fcff; 
+      background-color: #e8f5fa;
       margin-top: 45px;
       margin-left: 180px;
 
@@ -57,18 +57,11 @@ export const Container = styled.div`
         color: #738091;
         font-size: 10px;
         word-spacing: 5px;
+        
      }
      
 `
 
-
-
-export const TextP =  styled.p `
-      color: #2f4b6e;
-      font-size: 24px;
-      line-height: 0px;
-
-`
 
 
 

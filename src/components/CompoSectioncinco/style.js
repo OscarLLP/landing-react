@@ -7,7 +7,8 @@ justify-content: space-between;
 
 
 .Section51{
-    height: 350px;
+    width: 402px;
+    height: 450px;
 }
 
 .title{
@@ -21,7 +22,8 @@ justify-content: space-between;
 .text-p{
     font-size: 13px;
     color: #2f4b6e;
-    height: 100 px;
+    width: 402px;
+    height: 450px;
 
  
 }

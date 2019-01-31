@@ -8,8 +8,10 @@ function Button(props){
             <Container>
             <a  className = "a2" href="#"> 
                  <img className = "apple" src= {apple} /> 
-                 <span>{props.name}</span>
+                 <span>{props.name}</span>  
              </a>
+             
+             
             </Container>
     )
 

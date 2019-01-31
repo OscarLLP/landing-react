@@ -14,6 +14,7 @@ function Header(){
             <div className = "div_a">
                 <a className ="a1" href="#">Join on telegram</a>
                 <Button name=" Get The App" />
+              
             </div>
     
        </Container>

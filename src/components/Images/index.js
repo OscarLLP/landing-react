@@ -1,24 +1,15 @@
 import React from "react";
-import libro from "../../assets/libro.png";
-import manocelu from "../../assets/mano-celu.png";
-import planeta from "../../assets/planeta.png";
 import Container from "./style";
 
 function Images(props) {
+  const {img, description } = props
   return (
     <Container>
-        <div>
-          <img src={libro} />
-          <p>{props.name1}</p>
-        </div>
-        <div>
-          <img src={manocelu} />
-          <p>{props.name2}</p>
-        </div>
-        <div className="p3">
-          <img src={planeta} />
-          <p >{props.name3}</p>
-        </div>
+      <figure>
+        <img class="img3" src={img} />
+        <p className = "img-text">{description}</p>
+      </figure>
+      
     </Container>
   );
 }

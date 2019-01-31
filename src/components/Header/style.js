@@ -4,7 +4,7 @@ export const Container = styled.div`
     width: 100%;
     display: flex;
     justify-content: space-between;
-    background-color: #f4fcff;
+    background-color: #e8f5fa;
     list-style: none;
    
 

@@ -8,7 +8,6 @@ function SectionDos(){
         <Container>
                 <div>
                     <img src={img} />
-                    
                 </div>
 
                     <div className = "container-div">

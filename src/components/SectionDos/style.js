@@ -2,6 +2,7 @@ import styled  from 'styled-components'
 
 export const Container = styled.div `
         display: flex;
+        background-color: #e8f5fa;
 
     
     img {
@@ -27,7 +28,7 @@ export const Container = styled.div `
         width: 225px;
         height: 28px;
         border-radius: 15.5px;
-        background-color: #f4fcff;
+        background-color: #e8f5fa;
         color: #d0dceb;
     }
 
@@ -37,6 +38,7 @@ export const Container = styled.div `
         color: #2f4b6e;
         font-size: 11px;
         margin-left: -81px; 
+       
     }
 
     h2{
